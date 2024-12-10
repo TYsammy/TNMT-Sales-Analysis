@@ -7,11 +7,16 @@ This Data Was Obtained From Utiva Data School. this data as 4 sheet, Sales conta
 Microsoft Excel
 ## Data Cleaning / Data Modeling 
 Calculated Revenue By Mutiplying Unit Price * Orderqty
+
 Calculated Profit By Mutiplying Revenue - Orderqty * unit cost
+
 Used PowerPivot for data modeling 
+
 Created One to Many Relationship
+
 ## Exploratory Data Analysis
 Make Report For 
+
 i. Revenue Trend 
 
 ii. Top 5 Product by Revenue.
