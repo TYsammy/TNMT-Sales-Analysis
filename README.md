@@ -13,11 +13,12 @@ Created One to Many Relationship
 ## Exploratory Data Analysis
 Make Report For 
 i. Revemue Trend 
-ii. Top 5 Product by Revenue
-iii. Botton 5 Product by Revenue
-iv. Top 5 Sales Team by Revenue
-v. Botton 5 Sales Team by Revenue
-vi. Which are the 2 top Revenue Product in January 
+
+ii. Top 5 Product by Revenue.
+iii. Botton 5 Product by Revenue.
+iv. Top 5 Sales Team by Revenue.
+v. Botton 5 Sales Team by Revenue.
+vi. Which are the 2 top Revenue Product in January.
 ## Result/ Findings
 Top 5 Product by Revenue are : Clocks, Vases, Cookware, Ornaments and Phones. 
 
