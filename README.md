@@ -5,14 +5,14 @@ The analysis provides a snapshot of overall sales performance, including total r
 This Data Was Obtained From Utiva Data School. this data as 4 sheet, Sales contain information about Sales, Sales Team contain information about Sales Team,Product contain information about Product, Sales Location contain information about Sales Location.
 ## Tools
 Microsoft Excel
-## Data Cleaning/ Data Modeling 
+## Data Cleaning / Data Modeling 
 Calculated Revenue By Mutiplying Unit Price * Orderqty
 Calculated Profit By Mutiplying Revenue - Orderqty * unit cost
 Used PowerPivot for data modeling 
 Created One to Many Relationship
 ## Exploratory Data Analysis
 Make Report For 
-i. Revemue Trend 
+i. Revenue Trend 
 
 ii. Top 5 Product by Revenue.
 
