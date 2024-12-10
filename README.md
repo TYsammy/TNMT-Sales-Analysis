@@ -19,11 +19,15 @@ iv. Top 5 Sales Team by Revenue
 v. Botton 5 Sales Team by Revenue
 vi. Which are the 2 top Revenue Product in January 
 ## Result/ Findings
-Top 5 Product by Revenue are : Clocks, Vases, Cookware, Ornaments and Phones 
-Botton 5 product by Revenue are : Bakeware, Baseball, Home Fragrances, Blankets amd Bathroom Furnitures
-Top 5 Sales Team by Revenue : Nicholas Cunningham, Donald Reynolds,  Joe Price, Shawn Wallace and Carl Nguyen
+Top 5 Product by Revenue are : Clocks, Vases, Cookware, Ornaments and Phones. 
+
+Botton 5 product by Revenue are : Bakeware, Baseball, Home Fragrances, Blankets amd Bathroom Furnitures.
+
+Top 5 Sales Team by Revenue : Nicholas Cunningham, Donald Reynolds,  Joe Price, Shawn Wallace and Carl Nguyen.
+
 Botton 5 Sales Team by Revenue : Keith Griffin, Joshua Kenedy, Jerry Green, Stephen Payne and Douglas Tucker.
-Which are the 2 top Revenue Product in January are Accessories and Audio
+
+Which are the 2 top Revenue Product in January are Accessories and Audio.
 
 
 
