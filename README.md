@@ -2,7 +2,7 @@
 # Project OverView 
 The analysis provides a snapshot of overall sales performance, including total revenue, number of units sold, and Profit order value SalesTeam SalesLocation. This section highlights current performance against predefined targets
 # Data Source
-This Data Was Obtained From Utiva Data School. this data as 4 sheet, Sales contain information about Sales, Sales Team contain information about Sales Team,Product contain information about Product, Sales Location contain information about Sales Location.
+This Data Was Obtained From Utiva Data School. this data has 4 sheet, Sales contain information about Sales, Sales Team contain information about Sales Team,Product contain information about Product, Sales Location contain information about Sales Location.
 ## Tools
 Microsoft Excel
 ## Data Cleaning / Data Modeling 
